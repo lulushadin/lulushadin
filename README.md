@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Eventrave**
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Flutter,
 
 - 👯 I’m looking to collaborate on **Open source**
 
